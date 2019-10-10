@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using starikcetin.Eflatun.UnityCommon.Utils.Common;
 using UnityEngine;
 
-namespace starikcetin.Eflatun.UnityCommon.Utils.Calculation
+namespace Eflatun.Calculation
 {
     /// <summary>
     /// Includes 2D Geometry functions.

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace starikcetin.Eflatun.UnityCommon.Utils.Calculation
+namespace Eflatun.Calculation
 {
     /// <summary>
     /// Includes 3D Geometry functions.

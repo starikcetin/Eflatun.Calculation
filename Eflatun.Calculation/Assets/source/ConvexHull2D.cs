@@ -2,17 +2,17 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace starikcetin.Eflatun.UnityCommon.Utils.Calculation
-{
-    //
-    // Original source: http://csharphelper.com/blog/2014/07/find-the-convex-hull-of-a-set-of-points-in-c/
-    // Formatted a little bit for eye-candy, otherwise the algorithm is exactly the same as the original.
-    //
-    // Note:
-    // The original author mentions this algorithm is not efficient. Implement and use QuickHull algorithm if
-    // performance is a major concern.
-    //
+//
+// Original source: http://csharphelper.com/blog/2014/07/find-the-convex-hull-of-a-set-of-points-in-c/
+// Formatted a little bit for eye-candy, otherwise the algorithm is exactly the same as the original.
+//
+// Note:
+// The original author mentions this algorithm is not efficient. Implement and use QuickHull algorithm if
+// performance is a major concern.
+//
 
+namespace Eflatun.Calculation
+{
     /// <summary>
     /// Utilities for making 2D convex hulls.
     /// </summary>
