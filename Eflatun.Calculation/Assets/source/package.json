@@ -1,0 +1,9 @@
+{
+    "author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
+    "dependencies": {},
+    "description": "Calculation utilities for Unity.",
+    "displayName": "Eflatun.Calculation",
+    "license": "MIT",
+    "name": "com.eflatun.calculation",
+    "version": "0.0.1"
+}
