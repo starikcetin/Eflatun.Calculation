@@ -1,7 +1,8 @@
 {
   "dependencies": {
+    "com.coffee.git-dependency-resolver": "https://github.com/mob-sakai/GitDependencyResolverForUnity.git#1.1.3",
     "com.coffee.upm-git-extension": "https://github.com/mob-sakai/UpmGitExtension.git#0.9.1",
-    "com.eflatun.common": "https://github.com/starikcetin/Eflatun.Common.git#0.0.1",
+    "com.eflatun.common": "https://github.com/starikcetin/Eflatun.Common.git#0.0.2",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ext.nunit": "1.0.0",
     "com.unity.ide.rider": "1.1.0",
@@ -44,13 +45,17 @@
     "com.unity.modules.xr": "1.0.0"
   },
   "lock": {
+    "com.coffee.git-dependency-resolver": {
+      "hash": "693ee01bd5afa0adb697fb435261dc866a883ad3",
+      "revision": "1.1.3"
+    },
     "com.coffee.upm-git-extension": {
       "hash": "79fa88282ae1233e4841d87fd256b80f13cd8b62",
       "revision": "0.9.1"
     },
     "com.eflatun.common": {
-      "hash": "bab37c5742fcca655127ed0449421e4a819bc1eb",
-      "revision": "0.0.1"
+      "hash": "af34f2ae9b9efb2aa3376810d763a77050b77b03",
+      "revision": "0.0.2"
     }
   }
 }
