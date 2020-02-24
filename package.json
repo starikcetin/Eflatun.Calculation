@@ -1,11 +1,12 @@
 {
-    "author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
-    "dependencies": {
-		"com.eflatun.common": "https://github.com/starikcetin/Eflatun.Common.git#0.0.2"
+	"author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
+	"dependencies": {
+		"com.eflatun.common": "0.0.2"
 	},
-    "description": "Calculation utilities for Unity.",
-    "displayName": "Eflatun.Calculation",
-    "license": "MIT",
-    "name": "com.eflatun.calculation",
-    "version": "0.0.3"
+	"description": "Calculation utilities for Unity.",
+	"displayName": "Eflatun.Calculation",
+	"license": "MIT",
+	"name": "com.eflatun.calculation",
+	"version": "0.0.4",
+	"type": "library"
 }
