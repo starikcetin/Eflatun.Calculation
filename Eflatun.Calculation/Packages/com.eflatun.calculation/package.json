@@ -1,7 +1,7 @@
 {
   "author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
   "dependencies": {
-    "com.eflatun.common": "https://github.com/starikcetin/Eflatun.Common.git#0.0.2"
+    "com.eflatun.common": "0.0.2"
   },
   "description": "Calculation utilities for Unity.",
   "displayName": "Eflatun.Calculation",
